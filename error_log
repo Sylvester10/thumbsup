@@ -1,0 +1,8 @@
+[03-Nov-2021 11:37:32 UTC] PHP Fatal error:  Cannot declare class Events_model, because the name is already in use in /home/thumbsup/public_html/application/models/Email_model.php on line 440
+[03-Nov-2021 11:37:34 UTC] PHP Fatal error:  Cannot declare class Events_model, because the name is already in use in /home/thumbsup/public_html/application/models/Email_model.php on line 440
+[03-Nov-2021 11:39:38 UTC] PHP Fatal error:  Cannot declare class Events_model, because the name is already in use in /home/thumbsup/public_html/application/models/Email_model.php on line 440
+[03-Nov-2021 12:03:29 UTC] PHP Fatal error:  Cannot declare class Events_model, because the name is already in use in /home/thumbsup/public_html/application/models/Email_model.php on line 440
+[03-Nov-2021 12:19:42 UTC] PHP Fatal error:  Cannot declare class Events_model, because the name is already in use in /home/thumbsup/public_html/application/models/Email_model.php on line 440
+[03-Nov-2021 12:22:38 UTC] PHP Fatal error:  Cannot declare class Events_model, because the name is already in use in /home/thumbsup/public_html/application/models/Email_model.php on line 440
+[03-Nov-2021 13:55:12 UTC] PHP Fatal error:  Cannot declare class Events_model, because the name is already in use in /home/thumbsup/public_html/application/models/Email_model.php on line 440
+[03-Nov-2021 15:08:16 UTC] PHP Fatal error:  Cannot declare class Events_model, because the name is already in use in /home/thumbsup/public_html/application/models/Email_model.php on line 440
